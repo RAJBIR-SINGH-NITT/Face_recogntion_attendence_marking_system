@@ -10,7 +10,7 @@ A Python-based application that uses computer vision to identify individuals in 
 * **Automated Logging:** Saves the Name, Date, and Time to an '.xlsx' file using 'pandas'.
 * **Simple Interface:** Press 'Space' to capture and confirm attendance.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python 3.x
 * **Libraries:** * 'opencv-python' (Image processing)
   * 'face_recognition' (Dlib-based facial feature extraction)
